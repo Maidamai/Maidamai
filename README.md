@@ -56,14 +56,6 @@
 
 </div>
 
-## 🐍 贪吃蛇正在吃掉我的贡献
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maidamai/Maidamai/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maidamai/Maidamai/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Maidamai/Maidamai/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:005bea&height=120&section=footer" width="100%" alt="footer" />
