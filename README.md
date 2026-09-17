@@ -31,28 +31,21 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maidamai&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maidamai&layout=compact&theme=tokyonight&langs_count=8&card_width=320" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maidamai&theme=tokyonight" alt="profile details" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maidamai&theme=tokyonight" alt="stats" width="340" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maidamai&theme=tokyonight" alt="repos per language" width="340" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maidamai&theme=tokyonight" alt="most commit language" width="340" />
 
 </div>
 
 <div align="center">
 
 <img width="65%" src="https://streak-stats.demolab.com?user=Maidamai&theme=tokyonight&hide_border=true" alt="streak stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maidamai&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%" />
-
-</div>
-
-## 📈 活跃度
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maidamai&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 
 </div>
 
