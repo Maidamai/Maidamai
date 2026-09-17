@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:005bea&height=220&section=header&text=Maidamai&fontSize=64&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Maidamai" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FB&center=true&vCenter=true&random=false&width=620&lines=Java+%2F+Spring+Boot+Backend;Industrial+IoT+%28Modbus+%2F+S7+PLC%29;Drone+Data+Pipeline+Builder;Always+Building+Something+New" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FB&center=true&vCenter=true&random=false&width=620&lines=Java+%2F+Spring+Boot+Backend;Industrial+IoT+%28Modbus+%2F+S7+PLC%29;Building+Tools+That+Just+Work;Always+Learning+Something+New" alt="typing" />
 
 <img src="https://komarev.com/ghpvc/?username=Maidamai&style=for-the-badge&color=00c6fb&label=PROFILE+VIEWS" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Maidamai?label=FOLLOWERS&style=for-the-badge&color=005bea" alt="followers" />
@@ -11,10 +11,10 @@
 
 ## 👋 关于我
 
-- 🚁 **无人机方向的后端开发**：数据链路、地面站、算法服务都摸过
+- 💻 **后端开发**：专注工业物联网与设备通讯方向
 - 🏭 **工业通讯玩家**：Modbus、西门子 S7 PLC、北斗网格码编解码
 - ☕ **主力技术栈**：Java / Spring 生态，顺手写 TypeScript、Vue、Python
-- 🤖 折腾 AI 编程工具链，偶尔玩玩量化交易
+- 🤖 折腾 AI 编程工具链，喜欢造提效小工具
 - 📫 欢迎在 GitHub 上和我交流
 
 ## 🛠️ 技术栈
